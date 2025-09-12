@@ -4,7 +4,7 @@
 
 <p align="center">
   I'm a recent Computer Science graduate from <strong>Oxford Brookes University</strong> with an Upper Second Class (2:1) degree. <br />
-  I’m passionate about <strong>data analytics</strong> and <strong>web/app development</strong>, with hands-on experience building full-stack applications using modern frameworks and tools.
+  I’m passionate about <strong>data analytics</strong> and <strong>web/app development</strong>, building full-stack applications using modern frameworks and tools.
 </p>
 
 ---
