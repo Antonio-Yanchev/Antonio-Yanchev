@@ -1,7 +1,6 @@
 <h1 align="center">👋 Welcome to My GitHub Profile!</h1>
 
 <p align="center">
-  I'm a recent <strong>Computer Science</strong> graduate from <strong>Oxford Brookes University</strong> (Class of 2025). <br/>
   I’m focused on building <strong>full-stack web apps</strong> and exploring <strong>data analytics / applied AI</strong> through practical projects.
 </p>
 
