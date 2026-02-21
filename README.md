@@ -11,16 +11,6 @@
 </p>
 
 ---
-
-## 🔭 Currently Building
-### 🧾 Job Tracker (WIP)
-A web app to track job applications end-to-end (applications → interviews → offers), with notes, reminders, and simple analytics.
-- Features (in progress): status pipeline, search/filtering, reminders/follow-ups, notes per company, basic dashboard
-- Focus: clean UI, solid data model, and a well-documented codebase
-- Next: export to CSV + improved analytics
-
----
-
 ## 🧠 About Me
 - 🎓 BSc Computer Science 
 - 💻 Core stack: **Java, Python, TypeScript/JavaScript, HTML/CSS, SQL**
