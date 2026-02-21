@@ -61,4 +61,4 @@ Feel free to reach out — I’m always open to collaborating and learning from 
 - LinkedIn: https://www.linkedin.com/in/antonio-yanchev-00a938227/
 - Email: a.yanchevv@gmail.com
 
-<p align="center">⚡ Let’s build something useful.</p>
+<p>⚡ Let’s build something useful.</p>
