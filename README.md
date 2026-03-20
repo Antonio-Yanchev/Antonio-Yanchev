@@ -1,64 +1,42 @@
-<h1 align="center">👋 Welcome to My GitHub Profile!</h1>
+<h1 align="center">Antonio Yanchev</h1>
 
 <p align="center">
-  I’m focused on building <strong>full-stack web apps</strong> and exploring <strong>data analytics / applied AI</strong> through practical projects.
+  Computer Science graduate with a strong foundation in <strong>Java</strong> and <strong>Python</strong>, building practical projects across <strong>full-stack development</strong>, <strong>data analytics</strong>, and <strong>applied AI</strong>.
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/antonio-yanchev-00a938227/">LinkedIn</a> •
-  <a href="mailto:a.yanchevv@gmail.com">Email</a> •
   <a href="https://antonio-yanchev.github.io">Portfolio</a>
 </p>
-
----
-## 🧠 About Me
-- 🎓 BSc Computer Science 
-- 💻 Core stack: **Java, Python, TypeScript/JavaScript, HTML/CSS, SQL**
-- 🧱 Interests: **front-end development,full-stack development**, **data analytics**, **AI-driven features** (when they solve a real problem)
-- 🌍 Based in London • Open to **Graduate / Junior** roles
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🥗 FitTrak — Fitness & Nutrition Web App (Dissertation)
-- Built a full-stack app to support meal + workout planning and tracking
-- Firebase Authentication + Firestore for user accounts and persistent data
-- Integrated external APIs (e.g., nutrition data) and handled loading/error states cleanly
-- **Stack:** Ionic, TypeScript, HTML/CSS, Firebase
+### 🥗 FitTrak — Fitness & Nutrition Web App
+Full-stack dissertation project focused on meal and workout tracking, user accounts, and nutrition data integration.
 
-### 🚕 Taxi Dispatch / Route Optimisation (Coursework)
-- Improved route planning by implementing **A\*** (replacing DFS) for better routing efficiency
-- Modelled taxis/dispatchers/routes using OOP and added reporting/analytics
-- **Stack:** Python
+**Tech:** Ionic, TypeScript, HTML/CSS, Firebase
 
-### 🧠 Machine Learning Coursework
-- Compared models using train/test splits + cross-validation and evaluated with standard metrics
-- Practised normalisation/PCA and performance reporting (precision/recall/F1, etc.)
-- **Stack:** Python (and R)
+### 🚕 Taxi Dispatch / Route Optimisation
+Python coursework project improving route planning efficiency using A* and object-oriented design.
 
----
+**Tech:** Python
 
-## 📚 Learning & Certifications
-I’m building stronger fundamentals alongside projects:
-- Linux administration + command-line proficiency (home lab + daily practice)
-- Working towards: **CompTIA Linux+**, **LPIC-1**, and **Cisco (CCNA track)**
+### 🧠 Machine Learning Projects
+Coursework covering model evaluation, preprocessing, PCA, and performance analysis.
+
+**Tech:** Python, R
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
+
+**Strongest:** Java, Python  
+**Experience with:** TypeScript/JavaScript, React, HTML/CSS, SQL, C, C++, XML, Firebase, Git, Linux
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,java,python,react,firebase,git,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,python,ts,js,react,html,css,sql,c,cpp,firebase,git,linux&theme=dark" />
   </a>
 </p>
-
----
-
-## 🤝 Let’s Connect
-Feel free to reach out — I’m always open to collaborating and learning from others.
-
-- LinkedIn: https://www.linkedin.com/in/antonio-yanchev-00a938227/
-- Email: a.yanchevv@gmail.com
-
-<p>⚡ Let’s build something useful.</p>
