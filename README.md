@@ -37,6 +37,6 @@ Coursework covering model evaluation, preprocessing, PCA, and performance analys
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,ts,js,react,html,css,sql,c,cpp,firebase,git,linux&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,python,ts,js,react,html,css,c,cpp,firebase,git,linux&theme=dark" />
   </a>
 </p>
