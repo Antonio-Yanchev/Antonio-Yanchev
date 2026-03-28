@@ -62,9 +62,6 @@ A full-stack university project built with modern web technologies.
 - TypeScript
 - Ionic
 - Firebase
-
-**Project link:** [Add your Fit-Trak repo link here](https://github.com/your-username/your-repo)
-
 ---
 
 ### Java AOOP Game Project
@@ -75,9 +72,6 @@ A third-year **Advanced Object-Oriented Programming** project in Java, which Iâ€
 - Java application structure
 - GUI / gameplay improvements
 - Refactoring and presentation polish
-
-**Project link:** [Add your Java AOOP project repo link here](https://github.com/your-username/your-repo)
-
 ---
 
 ### C++ Game Project
@@ -88,8 +82,6 @@ A C++ project focused on object-oriented programming, game logic, and problem-so
 - OOP structure
 - Gameplay logic
 - Code cleanup and presentation improvements
-
-**Project link:** [Add your C++ game repo link here](https://github.com/your-username/your-repo)
 
 ---
 
