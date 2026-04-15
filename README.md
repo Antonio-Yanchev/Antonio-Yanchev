@@ -2,36 +2,11 @@
 
 <div align="center">
 
-# Hi, I'm Antonio Yanchev 👋
+# Hey there, I'm Antonio Yanchev 👋
 
 ### Computer Science graduate building practical software projects and improving as a developer
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/antonio-yanchev-00a938227/">LinkedIn</a>
-  ·
-  <a href="mailto:a.yanchevv@gmail.com">Email</a>
-  ·
-  <a href="https://antonio-yanchev.github.io">Portfolio</a>
-</p>
-
 </div>
 
----
-
-## About Me
-
-I’m a **Computer Science graduate from Oxford Brookes University** with an interest in building practical, polished, and portfolio-worthy software projects.
-
-My main focus is on improving through hands-on work in:
-
-- **Full-stack web development**
-- **Backend development**
-- **Object-oriented programming**
-- **Clean project structure and maintainable code**
-
-I enjoy building projects that help me develop real technical skills while creating a stronger and more professional portfolio.
-
----
 
 ## Tech Stack
 
@@ -41,6 +16,8 @@ I enjoy building projects that help me develop real technical skills while creat
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -53,46 +30,13 @@ I enjoy building projects that help me develop real technical skills while creat
 
 ---
 
-## Featured Projects
+## Hobbies
 
-### Fit-Trak
-A full-stack university project built with modern web technologies.
-
-**Built with:**
-- TypeScript
-- Ionic
-- Firebase
----
-
-### Java AOOP Game Project
-A third-year **Advanced Object-Oriented Programming** project in Java, which I’m planning to improve and polish further.
-
-**Focus areas:**
-- Object-oriented design
-- Java application structure
-- GUI / gameplay improvements
-- Refactoring and presentation polish
----
-
-### C++ Game Project
-A C++ project focused on object-oriented programming, game logic, and problem-solving.
-
-**Focus areas:**
-- C++ fundamentals
-- OOP structure
-- Gameplay logic
-- Code cleanup and presentation improvements
-
----
-
-### Upcoming Karting / F1 Project
-An upcoming project based around **karting / Formula 1**, planned as a more polished and professional React application.
-
-**Planned focus:**
-- React frontend development
-- Stronger UI / UX
-- Motorsport-inspired features and data
-- A more production-style portfolio project
+- Karting
+- Formula 1
+- Gym
+- Learning
+- Tech
 
 ---
 
