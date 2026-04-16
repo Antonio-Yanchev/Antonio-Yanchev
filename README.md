@@ -5,8 +5,10 @@
 # Hey there, I'm Antonio Yanchev 👋
 
 ### Computer Science graduate building practical software projects and improving as a developer
+
 </div>
 
+---
 
 ## Tech Stack
 
@@ -21,6 +23,8 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+---
+
 ### Frameworks & Tools
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
@@ -32,11 +36,12 @@
 
 ## Hobbies
 
-- Karting
-- Formula 1
-- Gym
-- Learning
-- Tech
+- 🏎️ Karting
+- ⚽ Fotball
+- 💪 Gym
+- 🎮 Gaming
+- 📚 Learning
+- 💻 Tech
 
 ---
 
@@ -47,5 +52,3 @@
 - **Email:** [a.yanchevv@gmail.com](mailto:a.yanchevv@gmail.com)
 
 ---
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
